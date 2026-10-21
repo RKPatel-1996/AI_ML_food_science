@@ -1,0 +1,1 @@
+//this left over file main index.tsx is located in src use that//
