@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://RKPatel-1996.github.io/AI_ML_food_science/sitemap.xml
