@@ -1,0 +1,170 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1320 825" role="img"><title>BMI distribution within NHANES age groups</title><style>text { font-family: Lexend, "Segoe UI", Arial, sans-serif; }</style><rect x="0" y="0" width="1320" height="825" rx="20" fill="#fffdfd" stroke="none"/><text x="48" y="61" font-size="29" fill="#302830" font-weight="700" text-anchor="start">How does the BMI distribution vary by age?</text>
+<text x="48" y="101" font-size="17" fill="#685e68" font-weight="400" text-anchor="start">Within-age-group percentages | adults with BMI | n = 5,175</text>
+<text x="166" y="161" font-size="19" fill="#302830" font-weight="650" text-anchor="start">BMI band (kg/m²)</text>
+<text x="215.0" y="193" font-size="13.5" fill="#685e68" font-weight="500" text-anchor="middle">&lt;15</text>
+<text x="313.0" y="193" font-size="13.5" fill="#685e68" font-weight="500" text-anchor="middle">15-&lt;20</text>
+<text x="411.0" y="193" font-size="13.5" fill="#685e68" font-weight="500" text-anchor="middle">20-&lt;25</text>
+<text x="509.0" y="193" font-size="13.5" fill="#685e68" font-weight="500" text-anchor="middle">25-&lt;30</text>
+<text x="607.0" y="193" font-size="13.5" fill="#685e68" font-weight="500" text-anchor="middle">30-&lt;35</text>
+<text x="705.0" y="193" font-size="13.5" fill="#685e68" font-weight="500" text-anchor="middle">35-&lt;40</text>
+<text x="803.0" y="193" font-size="13.5" fill="#685e68" font-weight="500" text-anchor="middle">40-&lt;45</text>
+<text x="901.0" y="193" font-size="13.5" fill="#685e68" font-weight="500" text-anchor="middle">45-&lt;50</text>
+<text x="999.0" y="193" font-size="13.5" fill="#685e68" font-weight="500" text-anchor="middle">50-&lt;60</text>
+<text x="1097.0" y="193" font-size="13.5" fill="#685e68" font-weight="500" text-anchor="middle">60+</text>
+<text x="142" y="251" font-size="17" fill="#302830" font-weight="600" text-anchor="end">20-29</text>
+<rect x="168" y="213" width="93" height="62" rx="6" fill="#f9ecf0" stroke="none"/>
+<text x="215.0" y="250" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">0.1%</text>
+<rect x="266" y="213" width="93" height="62" rx="6" fill="#c9a1b0" stroke="none"/>
+<text x="313.0" y="250" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">10.3%</text>
+<rect x="364" y="213" width="93" height="62" rx="6" fill="#a56880" stroke="none"/>
+<text x="411.0" y="250" font-size="14.5" fill="#ffffff" font-weight="550" text-anchor="middle">28.7%</text>
+<rect x="462" y="213" width="93" height="62" rx="6" fill="#af788d" stroke="none"/>
+<text x="509.0" y="250" font-size="14.5" fill="#ffffff" font-weight="550" text-anchor="middle">22.8%</text>
+<rect x="560" y="213" width="93" height="62" rx="6" fill="#b58094" stroke="none"/>
+<text x="607.0" y="250" font-size="14.5" fill="#ffffff" font-weight="550" text-anchor="middle">19.8%</text>
+<rect x="658" y="213" width="93" height="62" rx="6" fill="#caa2b2" stroke="none"/>
+<text x="705.0" y="250" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">9.9%</text>
+<rect x="756" y="213" width="93" height="62" rx="6" fill="#d7b6c2" stroke="none"/>
+<text x="803.0" y="250" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">5.7%</text>
+<rect x="854" y="213" width="93" height="62" rx="6" fill="#edd9e0" stroke="none"/>
+<text x="901.0" y="250" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">1.2%</text>
+<rect x="952" y="213" width="93" height="62" rx="6" fill="#eedae1" stroke="none"/>
+<text x="999.0" y="250" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">1.0%</text>
+<rect x="1050" y="213" width="93" height="62" rx="6" fill="#f3e2e8" stroke="none"/>
+<text x="1097.0" y="250" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">0.5%</text>
+<text x="1190" y="250" font-size="14.5" fill="#685e68" font-weight="500" text-anchor="start">n=769</text>
+<text x="142" y="318" font-size="17" fill="#302830" font-weight="600" text-anchor="end">30-39</text>
+<rect x="168" y="280" width="93" height="62" rx="6" fill="#fff5f8" stroke="none"/>
+<text x="215.0" y="317" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">—</text>
+<rect x="266" y="280" width="93" height="62" rx="6" fill="#dcbec9" stroke="none"/>
+<text x="313.0" y="317" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">4.3%</text>
+<rect x="364" y="280" width="93" height="62" rx="6" fill="#af788d" stroke="none"/>
+<text x="411.0" y="317" font-size="14.5" fill="#ffffff" font-weight="550" text-anchor="middle">22.7%</text>
+<rect x="462" y="280" width="93" height="62" rx="6" fill="#a3647d" stroke="none"/>
+<text x="509.0" y="317" font-size="14.5" fill="#ffffff" font-weight="550" text-anchor="middle">30.3%</text>
+<rect x="560" y="280" width="93" height="62" rx="6" fill="#b37e92" stroke="none"/>
+<text x="607.0" y="317" font-size="14.5" fill="#ffffff" font-weight="550" text-anchor="middle">20.6%</text>
+<rect x="658" y="280" width="93" height="62" rx="6" fill="#c89fae" stroke="none"/>
+<text x="705.0" y="317" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">10.8%</text>
+<rect x="756" y="280" width="93" height="62" rx="6" fill="#d7b5c2" stroke="none"/>
+<text x="803.0" y="317" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">5.8%</text>
+<rect x="854" y="280" width="93" height="62" rx="6" fill="#e6ced7" stroke="none"/>
+<text x="901.0" y="317" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">2.2%</text>
+<rect x="952" y="280" width="93" height="62" rx="6" fill="#e5cdd6" stroke="none"/>
+<text x="999.0" y="317" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">2.4%</text>
+<rect x="1050" y="280" width="93" height="62" rx="6" fill="#f1dee5" stroke="none"/>
+<text x="1097.0" y="317" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">0.7%</text>
+<text x="1190" y="317" font-size="14.5" fill="#685e68" font-weight="500" text-anchor="start">n=805</text>
+<text x="142" y="385" font-size="17" fill="#302830" font-weight="600" text-anchor="end">40-49</text>
+<rect x="168" y="347" width="93" height="62" rx="6" fill="#fff5f8" stroke="none"/>
+<text x="215.0" y="384" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">—</text>
+<rect x="266" y="347" width="93" height="62" rx="6" fill="#e7cfd8" stroke="none"/>
+<text x="313.0" y="384" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">2.1%</text>
+<rect x="364" y="347" width="93" height="62" rx="6" fill="#b9889b" stroke="none"/>
+<text x="411.0" y="384" font-size="14.5" fill="#ffffff" font-weight="550" text-anchor="middle">17.3%</text>
+<rect x="462" y="347" width="93" height="62" rx="6" fill="#9d5c75" stroke="none"/>
+<text x="509.0" y="384" font-size="14.5" fill="#ffffff" font-weight="550" text-anchor="middle">34.0%</text>
+<rect x="560" y="347" width="93" height="62" rx="6" fill="#b37d92" stroke="none"/>
+<text x="607.0" y="384" font-size="14.5" fill="#ffffff" font-weight="550" text-anchor="middle">20.7%</text>
+<rect x="658" y="347" width="93" height="62" rx="6" fill="#c296a7" stroke="none"/>
+<text x="705.0" y="384" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">13.2%</text>
+<rect x="756" y="347" width="93" height="62" rx="6" fill="#d0abb9" stroke="none"/>
+<text x="803.0" y="384" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">8.0%</text>
+<rect x="854" y="347" width="93" height="62" rx="6" fill="#e5ccd5" stroke="none"/>
+<text x="901.0" y="384" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">2.5%</text>
+<rect x="952" y="347" width="93" height="62" rx="6" fill="#e8d0d9" stroke="none"/>
+<text x="999.0" y="384" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">2.0%</text>
+<rect x="1050" y="347" width="93" height="62" rx="6" fill="#f6e8ed" stroke="none"/>
+<text x="1097.0" y="384" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">0.3%</text>
+<text x="1190" y="384" font-size="14.5" fill="#685e68" font-weight="500" text-anchor="start">n=767</text>
+<text x="142" y="452" font-size="17" fill="#302830" font-weight="600" text-anchor="end">50-59</text>
+<rect x="168" y="414" width="93" height="62" rx="6" fill="#fff5f8" stroke="none"/>
+<text x="215.0" y="451" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">—</text>
+<rect x="266" y="414" width="93" height="62" rx="6" fill="#dbbdc8" stroke="none"/>
+<text x="313.0" y="451" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">4.6%</text>
+<rect x="364" y="414" width="93" height="62" rx="6" fill="#b48094" stroke="none"/>
+<text x="411.0" y="451" font-size="14.5" fill="#ffffff" font-weight="550" text-anchor="middle">19.9%</text>
+<rect x="462" y="414" width="93" height="62" rx="6" fill="#a06079" stroke="none"/>
+<text x="509.0" y="451" font-size="14.5" fill="#ffffff" font-weight="550" text-anchor="middle">32.0%</text>
+<rect x="560" y="414" width="93" height="62" rx="6" fill="#af788d" stroke="none"/>
+<text x="607.0" y="451" font-size="14.5" fill="#ffffff" font-weight="550" text-anchor="middle">22.7%</text>
+<rect x="658" y="414" width="93" height="62" rx="6" fill="#caa1b0" stroke="none"/>
+<text x="705.0" y="451" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">10.2%</text>
+<rect x="756" y="414" width="93" height="62" rx="6" fill="#d7b6c2" stroke="none"/>
+<text x="803.0" y="451" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">5.7%</text>
+<rect x="854" y="414" width="93" height="62" rx="6" fill="#e3c9d3" stroke="none"/>
+<text x="901.0" y="451" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">2.8%</text>
+<rect x="952" y="414" width="93" height="62" rx="6" fill="#e9d2db" stroke="none"/>
+<text x="999.0" y="451" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">1.7%</text>
+<rect x="1050" y="414" width="93" height="62" rx="6" fill="#f5e6eb" stroke="none"/>
+<text x="1097.0" y="451" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">0.3%</text>
+<text x="1190" y="451" font-size="14.5" fill="#685e68" font-weight="500" text-anchor="start">n=871</text>
+<text x="142" y="519" font-size="17" fill="#302830" font-weight="600" text-anchor="end">60-69</text>
+<rect x="168" y="481" width="93" height="62" rx="6" fill="#fff5f8" stroke="none"/>
+<text x="215.0" y="518" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">—</text>
+<rect x="266" y="481" width="93" height="62" rx="6" fill="#e3c9d3" stroke="none"/>
+<text x="313.0" y="518" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">2.8%</text>
+<rect x="364" y="481" width="93" height="62" rx="6" fill="#ba889b" stroke="none"/>
+<text x="411.0" y="518" font-size="14.5" fill="#ffffff" font-weight="550" text-anchor="middle">17.1%</text>
+<rect x="462" y="481" width="93" height="62" rx="6" fill="#9c5973" stroke="none"/>
+<text x="509.0" y="518" font-size="14.5" fill="#ffffff" font-weight="550" text-anchor="middle">35.3%</text>
+<rect x="560" y="481" width="93" height="62" rx="6" fill="#ae758b" stroke="none"/>
+<text x="607.0" y="518" font-size="14.5" fill="#ffffff" font-weight="550" text-anchor="middle">23.6%</text>
+<rect x="658" y="481" width="93" height="62" rx="6" fill="#c397a8" stroke="none"/>
+<text x="705.0" y="518" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">12.8%</text>
+<rect x="756" y="481" width="93" height="62" rx="6" fill="#d9b9c5" stroke="none"/>
+<text x="803.0" y="518" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">5.3%</text>
+<rect x="854" y="481" width="93" height="62" rx="6" fill="#e8d2da" stroke="none"/>
+<text x="901.0" y="518" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">1.8%</text>
+<rect x="952" y="481" width="93" height="62" rx="6" fill="#efdbe2" stroke="none"/>
+<text x="999.0" y="518" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">1.0%</text>
+<rect x="1050" y="481" width="93" height="62" rx="6" fill="#f5e5ea" stroke="none"/>
+<text x="1097.0" y="518" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">0.4%</text>
+<text x="1190" y="518" font-size="14.5" fill="#685e68" font-weight="500" text-anchor="start">n=1,043</text>
+<text x="142" y="586" font-size="17" fill="#302830" font-weight="600" text-anchor="end">70-79</text>
+<rect x="168" y="548" width="93" height="62" rx="6" fill="#f8eaef" stroke="none"/>
+<text x="215.0" y="585" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">0.2%</text>
+<rect x="266" y="548" width="93" height="62" rx="6" fill="#e5ccd5" stroke="none"/>
+<text x="313.0" y="585" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">2.5%</text>
+<rect x="364" y="548" width="93" height="62" rx="6" fill="#b27d91" stroke="none"/>
+<text x="411.0" y="585" font-size="14.5" fill="#ffffff" font-weight="550" text-anchor="middle">21.0%</text>
+<rect x="462" y="548" width="93" height="62" rx="6" fill="#9a5771" stroke="none"/>
+<text x="509.0" y="585" font-size="14.5" fill="#ffffff" font-weight="550" text-anchor="middle">36.3%</text>
+<rect x="560" y="548" width="93" height="62" rx="6" fill="#ac7389" stroke="none"/>
+<text x="607.0" y="585" font-size="14.5" fill="#ffffff" font-weight="550" text-anchor="middle">24.5%</text>
+<rect x="658" y="548" width="93" height="62" rx="6" fill="#c9a0b0" stroke="none"/>
+<text x="705.0" y="585" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">10.4%</text>
+<rect x="756" y="548" width="93" height="62" rx="6" fill="#e6cdd6" stroke="none"/>
+<text x="803.0" y="585" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">2.3%</text>
+<rect x="854" y="548" width="93" height="62" rx="6" fill="#e9d2da" stroke="none"/>
+<text x="901.0" y="585" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">1.8%</text>
+<rect x="952" y="548" width="93" height="62" rx="6" fill="#efdce3" stroke="none"/>
+<text x="999.0" y="585" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">0.9%</text>
+<rect x="1050" y="548" width="93" height="62" rx="6" fill="#f8eaef" stroke="none"/>
+<text x="1097.0" y="585" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">0.2%</text>
+<text x="1190" y="585" font-size="14.5" fill="#685e68" font-weight="500" text-anchor="start">n=567</text>
+<text x="142" y="653" font-size="17" fill="#302830" font-weight="600" text-anchor="end">80+</text>
+<rect x="168" y="615" width="93" height="62" rx="6" fill="#f6e7ec" stroke="none"/>
+<text x="215.0" y="652" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">0.3%</text>
+<rect x="266" y="615" width="93" height="62" rx="6" fill="#d7b6c3" stroke="none"/>
+<text x="313.0" y="652" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">5.7%</text>
+<rect x="364" y="615" width="93" height="62" rx="6" fill="#a96d84" stroke="none"/>
+<text x="411.0" y="652" font-size="14.5" fill="#ffffff" font-weight="550" text-anchor="middle">26.6%</text>
+<rect x="462" y="615" width="93" height="62" rx="6" fill="#98536e" stroke="none"/>
+<text x="509.0" y="652" font-size="14.5" fill="#ffffff" font-weight="550" text-anchor="middle">38.0%</text>
+<rect x="560" y="615" width="93" height="62" rx="6" fill="#b37e93" stroke="none"/>
+<text x="607.0" y="652" font-size="14.5" fill="#ffffff" font-weight="550" text-anchor="middle">20.4%</text>
+<rect x="658" y="615" width="93" height="62" rx="6" fill="#d4b2bf" stroke="none"/>
+<text x="705.0" y="652" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">6.5%</text>
+<rect x="756" y="615" width="93" height="62" rx="6" fill="#e7d0d8" stroke="none"/>
+<text x="803.0" y="652" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">2.0%</text>
+<rect x="854" y="615" width="93" height="62" rx="6" fill="#f2e1e7" stroke="none"/>
+<text x="901.0" y="652" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">0.6%</text>
+<rect x="952" y="615" width="93" height="62" rx="6" fill="#fff5f8" stroke="none"/>
+<text x="999.0" y="652" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">—</text>
+<rect x="1050" y="615" width="93" height="62" rx="6" fill="#fff5f8" stroke="none"/>
+<text x="1097.0" y="652" font-size="14.5" fill="#302830" font-weight="550" text-anchor="middle">—</text>
+<text x="1190" y="652" font-size="14.5" fill="#685e68" font-weight="500" text-anchor="start">n=353</text>
+<text x="48" y="727" font-size="16" fill="#302830" font-weight="600" text-anchor="start">Each row sums to 100% of observed participants in that age group.</text>
+<text x="48" y="760" font-size="15" fill="#685e68" font-weight="400" text-anchor="start">Percentages are unweighted; not estimates for the US population.</text>
+<text x="48" y="790" font-size="15" fill="#685e68" font-weight="400" text-anchor="start">Compare with the original count heatmap: changing the denominator changes the visual interpretation.</text></svg>

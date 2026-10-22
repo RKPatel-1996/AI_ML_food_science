@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1320 795" role="img"><title>Dietary energy distribution in equal intervals</title><style>text { font-family: Lexend, "Segoe UI", Arial, sans-serif; }</style><rect x="0" y="0" width="1320" height="795" rx="20" fill="#fffdfd" stroke="none"/><text x="55" y="67" font-size="29" fill="#302830" font-weight="700" text-anchor="start">Reported dietary energy varies across individuals</text>
+<text x="55" y="107" font-size="17" fill="#685e68" font-weight="400" text-anchor="start">NHANES Day-1 recall | adults aged 20+ | n = 4,742</text>
+<text x="65" y="170" font-size="19" fill="#302830" font-weight="600" text-anchor="start">Participant counts in equal 1,000-kcal intervals</text>
+<rect x="90" y="462.51986267778324" width="125" height="69.48013732221678" rx="7" fill="#98536e" stroke="none"/>
+<text x="152" y="447.51986267778324" font-size="17" fill="#302830" font-weight="650" text-anchor="middle">457</text>
+<text x="152" y="564" font-size="14.5" fill="#685e68" font-weight="500" text-anchor="middle">0–&lt;1,000</text>
+<rect x="276" y="222.0" width="125" height="310.0" rx="7" fill="#98536e" stroke="none"/>
+<text x="338" y="207.0" font-size="17" fill="#302830" font-weight="650" text-anchor="middle">2,039</text>
+<text x="338" y="564" font-size="14.5" fill="#685e68" font-weight="500" text-anchor="middle">1,000–&lt;2,000</text>
+<rect x="462" y="306.83570377636096" width="125" height="225.16429622363904" rx="7" fill="#98536e" stroke="none"/>
+<text x="524" y="291.83570377636096" font-size="17" fill="#302830" font-weight="650" text-anchor="middle">1,481</text>
+<text x="524" y="564" font-size="14.5" fill="#685e68" font-weight="500" text-anchor="middle">2,000–&lt;3,000</text>
+<rect x="648" y="449.9009318293281" width="125" height="82.0990681706719" rx="7" fill="#98536e" stroke="none"/>
+<text x="710" y="434.9009318293281" font-size="17" fill="#302830" font-weight="650" text-anchor="middle">540</text>
+<text x="710" y="564" font-size="14.5" fill="#685e68" font-weight="500" text-anchor="middle">3,000–&lt;4,000</text>
+<rect x="834" y="507.9784207945071" width="125" height="24.021579205492888" rx="7" fill="#98536e" stroke="none"/>
+<text x="896" y="492.9784207945071" font-size="17" fill="#302830" font-weight="650" text-anchor="middle">158</text>
+<text x="896" y="564" font-size="14.5" fill="#685e68" font-weight="500" text-anchor="middle">4,000–&lt;5,000</text>
+<rect x="1020" y="526.0706228543404" width="125" height="5.929377145659637" rx="7" fill="#98536e" stroke="none"/>
+<text x="1082" y="511.0706228543404" font-size="17" fill="#302830" font-weight="650" text-anchor="middle">39</text>
+<text x="1082" y="564" font-size="14.5" fill="#685e68" font-weight="500" text-anchor="middle">5,000–&lt;6,000</text>
+<text x="90" y="615" font-size="19" fill="#302830" font-weight="600" text-anchor="start">Reported Day-1 energy intake (kcal)</text>
+<rect x="57" y="638" width="1190" height="64" rx="11" fill="#fff5f8" stroke="#eadde2"/>
+<text x="77" y="665" font-size="17" fill="#98536e" font-weight="600" text-anchor="start">Additional observations at 6,000 kcal or above: 28</text>
+<text x="77" y="688" font-size="13" fill="#685e68" font-weight="400" text-anchor="start">Shown separately to preserve equal-width intervals in the main chart.</text>
+<text x="57" y="736" font-size="15" fill="#685e68" font-weight="400" text-anchor="start">Unweighted participant counts; not a population estimate.</text>
+<text x="57" y="765" font-size="15" fill="#685e68" font-weight="400" text-anchor="start">One dietary recall day does not establish usual individual intake.</text></svg>
