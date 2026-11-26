@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="540" viewBox="0 0 980 540" role="img" aria-labelledby="figTitle figDesc">
+<title id="figTitle">Two ways to process the same dietary record</title><desc id="figDesc">Parallel explicit rules and example-based learning methods for determining whether a fruit is mentioned.</desc>
+<rect width="980" height="540" rx="22" fill="#fffafc"/>
+<rect x="15" y="15" width="950" height="510" rx="18" fill="#ffffff" stroke="#eddbe3" stroke-width="2"/>
+<text x="490" y="61" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#8c4368" text-anchor="middle">ONE SHARED TASK</text>
+<text x="490" y="93" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#26334a" text-anchor="middle">Does this meal record mention fruit?</text>
+<rect x="274" y="114" width="432" height="55" rx="12" fill="#fce8f0" stroke="#d8adc0" stroke-width="2"/>
+<text x="490" y="148" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#713857" text-anchor="middle">“Oatmeal with a banana”</text>
+<rect x="37" y="197" width="441" height="288" rx="12" fill="#f9f7ff" stroke="#d9ceeb" stroke-width="2"/>
+<rect x="503" y="197" width="441" height="288" rx="12" fill="#f1faf8" stroke="#b2ddd2" stroke-width="2"/>
+<text x="257" y="227" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#5e4c83" text-anchor="middle">PATH A · WRITTEN RULES</text>
+<text x="723" y="227" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#346e69" text-anchor="middle">PATH B · LEARNED MODEL</text>
+<rect x="69" y="242" width="377" height="63" rx="10" fill="#ffffff" stroke="#d4c6e5" stroke-width="2"/>
+<text x="86" y="267" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#27314a" text-anchor="start">Human-written fruit word list</text>
+<text x="86" y="289" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#60697b" text-anchor="start">banana • apple • mango</text>
+<path d="M257 305 L257 318" stroke="#9e879d" stroke-width="3" fill="none"/>
+<rect x="69" y="318" width="377" height="63" rx="10" fill="#ffffff" stroke="#d4c6e5" stroke-width="2"/>
+<text x="86" y="343" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#27314a" text-anchor="start">Search record for listed words</text>
+<text x="86" y="365" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#60697b" text-anchor="start">Can miss negations or synonyms</text>
+<path d="M257 381 L257 394" stroke="#9e879d" stroke-width="3" fill="none"/>
+<rect x="69" y="394" width="377" height="63" rx="10" fill="#ffffff" stroke="#d4c6e5" stroke-width="2"/>
+<text x="86" y="419" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#27314a" text-anchor="start">Output: fruit mentioned</text>
+<text x="86" y="441" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#60697b" text-anchor="start">Based on the written rule</text>
+<rect x="535" y="242" width="377" height="63" rx="10" fill="#ffffff" stroke="#bfddd5" stroke-width="2"/>
+<text x="552" y="267" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#27314a" text-anchor="start">Examples with reference labels</text>
+<text x="552" y="289" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#60697b" text-anchor="start">fruit mention / no mention</text>
+<path d="M723 305 L723 318" stroke="#9e879d" stroke-width="3" fill="none"/>
+<rect x="535" y="318" width="377" height="63" rx="10" fill="#ffffff" stroke="#bfddd5" stroke-width="2"/>
+<text x="552" y="343" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#27314a" text-anchor="start">Fit a model on the examples</text>
+<text x="552" y="365" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#60697b" text-anchor="start">Can learn unreliable shortcuts</text>
+<path d="M723 381 L723 394" stroke="#9e879d" stroke-width="3" fill="none"/>
+<rect x="535" y="394" width="377" height="63" rx="10" fill="#ffffff" stroke="#bfddd5" stroke-width="2"/>
+<text x="552" y="419" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#27314a" text-anchor="start">Output: predicted mention</text>
+<text x="552" y="441" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#60697b" text-anchor="start">Needs testing on new examples</text>
+<text x="490" y="513" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#686373" text-anchor="middle">Illustrative tasks only: neither pathway has been evaluated on a real dataset here.</text>
+</svg>
