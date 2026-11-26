@@ -23,6 +23,29 @@ export const ARTICLE_MANIFEST = [
     "modulePath": "./articles/rk-2026-002.ts"
   },
   {
+    "id": "RK-2026-003",
+    "title": "AI in Dietary Assessment: Food Recognition, Portion Estimation and Nutrient Analysis",
+    "date": "2026-11-26",
+    "tags": [
+      "#DietaryAssessment",
+      "#FoodRecognition",
+      "#NutrientAnalysis",
+      "#FoodAI",
+      "#FoodScience"
+    ],
+    "excerpt": "How can a photograph or dietary record become a defensible estimate of nutrient intake? This introductory article connects the machine-learning concepts of classification and regression to dietary-assessment apps, nutrient-analysis software, food-composition databases and portion estimation. It examines the published FoodAI system, FRANI validation evidence, and an Indian mixed-meal example, emphasizing measurement error and scientific verification.",
+    "readTime": "29 min",
+    "type": "report",
+    "template": "standard",
+    "author": {
+      "name": "RK Patel",
+      "role": "Microbiologist",
+      "avatar": "https://github.com/RKPatel-1996.png",
+      "affiliation": "Gujarat University"
+    },
+    "modulePath": "./articles/rk-2026-003.ts"
+  },
+  {
     "id": "RK-2026-001",
     "title": "Why Do Health Sciences Need AI? From Research Questions to Reliable Data",
     "date": "2026-10-22",
